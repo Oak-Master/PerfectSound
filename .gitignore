@@ -1,0 +1,16 @@
+node_modules/
+dist/
+data/
+work/
+.cache/
+coverage/
+*.log
+*.lnk
+*.zip
+*.exe
+*.dmp
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
